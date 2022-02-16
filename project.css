@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+form,input{
+    text-align: center;
+}
+.entrer{
+    margin: 15px;
+}
+td, th{
+    text-align: center;
+}
+.stylp{
+    font-size: 15px;
+    color: rgb(117, 117, 117);
+    font-style: italic;
+}
+#bgForm{
+    background-color: #8ee1fa;
+}
+#PRINT-BTN{
+    width: 7%;
+    height: 34px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 13px;
+}
